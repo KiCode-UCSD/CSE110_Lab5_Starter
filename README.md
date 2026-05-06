@@ -5,11 +5,11 @@ Member(s): Ki Diaz
 
 ## Expose
 
-[expose.html link here](KiCode-UCSD.github.io/CSE110_Lab5_Starter/expose.html)
+[expose.html link here](https://KiCode-UCSD.github.io/CSE110_Lab5_Starter/expose.html)
 
 ## Explore
 
-[explore.html link here](KiCode-UCSD.github.io/CSE110_Lab5_Starter/explore.html)
+[explore.html link here](https://KiCode-UCSD.github.io/CSE110_Lab5_Starter/explore.html)
 
 ## Check Your Understanding
 
